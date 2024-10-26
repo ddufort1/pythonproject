@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    boxs-izing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    min-height: 100vh;
+    color: #555;
+    backgroud-color: #fff;
+    }
+
+.chart{
+    max-width: 900px;
+    height: 450px;
+    padding: 50px;
+    margin: 0 auto;
+    }
+
